@@ -31,6 +31,11 @@ function Sidebar() {
           <SidebarChannel />
           <SidebarChannel />
           <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
+          <SidebarChannel />
         </div>
       </div>
       <div className="sidebar__voice">
