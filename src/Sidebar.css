@@ -86,4 +86,5 @@
 
 .sidebar__profileInfo > h3 {
   color: white;
+  cursor: pointer;
 }
